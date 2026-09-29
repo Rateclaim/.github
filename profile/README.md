@@ -56,6 +56,8 @@ We charge five. That gap is your discount.
 | Repo | What it is |
 | :--- | :--- |
 | **website** | rateclaim.pages.dev: static HTML, no build step, Cloudflare Pages. Private |
+| **backend** | Intake, the CRM, the rate-request agent, payments. Cratefield on Cloudflare Workers. Private |
+| **extension** | The browser extension (MV3, Chrome and Firefox). Private |
 | **.github** | This page and the mark |
 
 <p align="center">
